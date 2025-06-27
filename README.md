@@ -69,5 +69,5 @@
 
 - Email: [yashkansal.cse@gmail.com](mailto:yashkansal.cse@gmail.com)  
 - LinkedIn: [linkedin.com/in/yash-kansal-829343297](https://linkedin.com/in/yash-kansal-829343297)  
-- Portfolio: [Yash Kansal](https://kansal-ji.github.io/Portfolio/)
+- Portfolio: [Yash Kansal](https://yash-kansal.netlify.app/)
 
